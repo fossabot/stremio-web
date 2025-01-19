@@ -2,6 +2,7 @@
 
 ![Build](https://github.com/stremio/stremio-web/workflows/Build/badge.svg?branch=development)
 [![Github Page](https://img.shields.io/website?label=Page&logo=github&up_message=online&down_message=offline&url=https%3A%2F%2Fstremio.github.io%2Fstremio-web%2F)](https://stremio.github.io/stremio-web/development)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fstremio-web.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fstremio-web?ref=badge_shield)
 
 Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons.
 
@@ -47,3 +48,6 @@ npm run build
 ## License
 
 Stremio is copyright 2017-2023 Smart code and available under GPLv2 license. See the [LICENSE](/LICENSE.md) file in the project for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fstremio-web.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fstremio-web?ref=badge_large)
